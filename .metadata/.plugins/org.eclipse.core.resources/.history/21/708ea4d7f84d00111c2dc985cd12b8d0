@@ -1,0 +1,5 @@
+package com.primeiroprojeto.vendas.config;
+
+public class TestConfig {
+
+}

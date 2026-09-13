@@ -1,0 +1,5 @@
+package com.leandrolima.mongodb.resources.util;
+
+public class URL {
+
+}

@@ -1,0 +1,5 @@
+package com.leandrolima.hr_payroll.service;
+
+public class PaymentService {
+
+}

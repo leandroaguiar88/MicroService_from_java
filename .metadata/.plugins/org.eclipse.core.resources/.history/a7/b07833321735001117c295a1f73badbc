@@ -1,0 +1,12 @@
+package entites;
+
+import java.time.LocalDate;
+
+public class Instalment {
+
+	
+	private LocalDate date;
+	private Double amount;
+	
+	public Instalmente
+}

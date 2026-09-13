@@ -1,0 +1,5 @@
+package com.leandrolima.hr_worker.resources;
+
+public class WorkerResource {
+
+}

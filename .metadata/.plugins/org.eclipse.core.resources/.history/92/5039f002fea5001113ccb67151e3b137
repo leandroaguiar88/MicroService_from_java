@@ -1,0 +1,5 @@
+package com.leandrolima.mongodb.resources.exception;
+
+public class StandardError {
+
+}
