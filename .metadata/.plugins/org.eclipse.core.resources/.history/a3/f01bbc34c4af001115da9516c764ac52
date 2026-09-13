@@ -1,0 +1,9 @@
+package com.leandrolima.hr_payroll.feignclients;
+
+import org.springframework.stereotype.Component;
+
+@Component
+@FeignClient(name = "hr-worker")
+public interface WorkerFeignClient {
+
+}
