@@ -477,3 +477,14 @@
 2026-09-14 11:51:42.401: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-09-14 11:51:42.401: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-09-14 11:51:42.401: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-14 12:20:22.477: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 11:20:31.228: [INFO] CurrentProfilePath: C:\Users\leoag\Documents\workspace-spring-tools-for-eclipse-5.0.1.RELEASE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 11:20:31.228: [INFO] Profiles total count: 1
+2026-09-15 11:20:31.233: [INFO] Profile: name=Perfil 1 path=C:\Users\leoag\Documents\workspace-spring-tools-for-eclipse-5.0.1.RELEASE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-24T23:23:24.030Z
+2026-09-15 11:20:31.233: [INFO] LastUsedProfileDir: C:\Users\leoag\Documents\workspace-spring-tools-for-eclipse-5.0.1.RELEASE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-15 11:20:31.233: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\leoag\Documents\workspace-spring-tools-for-eclipse-5.0.1.RELEASE\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-24T23:23:24.030Z
+2026-09-15 11:20:31.233: [INFO] OnDoneLoading sync enabled: 0
+2026-09-15 11:20:31.233: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-15 11:20:31.233: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-15 11:20:31.233: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-15 11:35:23.061: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
