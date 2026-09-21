@@ -1,5 +1,0 @@
-package com.leandrolima.hr_worker.repositories;
-
-public class WorkerRepository {
-
-}
