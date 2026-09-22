@@ -1,5 +1,0 @@
-package com.leandrolima.hr_payroll.feignclients;
-
-public interface WorkerFeignClient {
-
-}
