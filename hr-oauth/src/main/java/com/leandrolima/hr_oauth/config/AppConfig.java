@@ -1,5 +1,6 @@
 package com.leandrolima.hr_oauth.config;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
@@ -14,10 +15,13 @@ public class AppConfig {
 		return new BCryptPasswordEncoder();
 		
 	}
+	@Value("${jwt.secret}")
+	private String jwtSecret;
+	
 	@Bean
 	public JwtAccessTokenConverter acessTokenConverter() {
 		JwtAccessTokenConverter tokenConverter = new JwtAccessTokenConverter();
-		tokenConverter.setSigningKey("MY-SECRET-KEY");
+		tokenConverter.setSigningKey("jwtSecret");
 		return tokenConverter;
 	}
 	@Bean

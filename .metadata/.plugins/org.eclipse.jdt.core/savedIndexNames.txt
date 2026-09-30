@@ -1,6 +1,5 @@
 INDEX VERSION 1.134+C:\Users\leoag\Documents\workspace-spring-tools-for-eclipse-5.0.1.RELEASE\.metadata\.plugins\org.eclipse.jdt.core
 242521809.index
-83013460.index
 1626367106.index
 3266142535.index
 2467896037.index
@@ -99,7 +98,6 @@ INDEX VERSION 1.134+C:\Users\leoag\Documents\workspace-spring-tools-for-eclipse-
 82234080.index
 1763279140.index
 1401327743.index
-2794711375.index
 2185391638.index
 2019877161.index
 1710010322.index
@@ -171,7 +169,6 @@ INDEX VERSION 1.134+C:\Users\leoag\Documents\workspace-spring-tools-for-eclipse-
 3154168004.index
 3823697542.index
 2507154943.index
-1418026491.index
 787812352.index
 1270032502.index
 2696132324.index
@@ -221,7 +218,6 @@ INDEX VERSION 1.134+C:\Users\leoag\Documents\workspace-spring-tools-for-eclipse-
 2794698597.index
 2766480459.index
 1775830690.index
-4184971077.index
 2020469922.index
 792517244.index
 2237637204.index
