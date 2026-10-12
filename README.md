@@ -29,10 +29,12 @@ Este projeto segue o padrão de microserviços com:
 * Spring Boot 2.3.4.RELEASE
 * Spring Cloud (Hoxton.SR12)
 * Spring Data JPA
-* H2 Database (testes)
+* H2 Database
+* Postgres
 * OpenFeign
 * Eureka Client
 * Maven
+* Docker
 
 ---
 
