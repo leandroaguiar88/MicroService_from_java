@@ -77,8 +77,7 @@ mvn spring-boot:run
 ---
 
 ## 🌐 Configuração importante
-
-No `application.properties`:
+ `application.properties`:
 
 ```properties
 spring.application.name=hr-user
@@ -153,13 +152,6 @@ GET http://localhost:8001/users/1
 
 ---
 
-## 📌 Melhorias futuras
-
-* [ ] Implementar cache com Redis
-* [ ] Adicionar testes unitários (JUnit / Mockito)
-* [ ] Logging estruturado (ELK)
-* [ ] Deploy em cloud (AWS / Docker)
-
 ---
 
 ## 👨‍💻 Autor
@@ -171,6 +163,3 @@ GET http://localhost:8001/users/1
 
 ---
 
-## 📢 Observação
-
-Este projeto foi desenvolvido com foco em aprendizado de arquitetura de microserviços utilizando Spring Boot e Spring Cloud, seguindo boas práticas de separação de responsabilidades e integração entre serviços.
