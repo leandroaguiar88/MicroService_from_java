@@ -1,0 +1,7 @@
+com\leandrolima\hr_payroll\entities\Payment.class
+com\leandrolima\hr_payroll\service\PaymentService.class
+com\leandrolima\hr_payroll\config\AppConfig.class
+com\leandrolima\hr_payroll\entities\Worker.class
+com\leandrolima\hr_payroll\HrPayrollApplication.class
+com\leandrolima\hr_payroll\resources\PaymentResource.class
+com\leandrolima\hr_payroll\feignclients\WorkerFeignClient.class
