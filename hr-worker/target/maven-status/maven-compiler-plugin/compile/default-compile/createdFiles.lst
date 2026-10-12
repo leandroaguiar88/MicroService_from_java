@@ -1,0 +1,4 @@
+com\leandrolima\hr_worker\HrWorkerApplication.class
+com\leandrolima\hr_worker\repositories\WorkerRepository.class
+com\leandrolima\hr_worker\resources\WorkerResource.class
+com\leandrolima\hr_worker\entities\Worker.class
